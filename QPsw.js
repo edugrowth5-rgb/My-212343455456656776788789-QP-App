@@ -7,7 +7,8 @@ const urlsToCache = [
   './QPapp.js',
   './QPchapter1.js',
   './QPchapter2.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'
+  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
+  'IMG-20260503-WA0000.jpg'
 ];
 
 // Install Service Worker and cache files
