@@ -105,8 +105,8 @@
     <!-- Load main logic last -->
     <script src="QPapp.js"></script>
     
-    // Service Worker Registration for QP Project
     <script>
+    // Service Worker Registration for QP Project
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
         navigator.serviceWorker.register('./QPsw.js')
