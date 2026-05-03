@@ -1,6 +1,6 @@
 {
-  "name": "Success Zone Quiz",
-  "short_name": "SuccessZone",
+  "name": "Computer Science Quiz",
+  "short_name": "Comp Quiz",
   "description": "Educational Quiz App for Computer Science and Math",
   "start_url": "./index.html",
   "display": "standalone",
@@ -9,17 +9,17 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "IMG-20260503-WA0000.jpg",
+      "src": "CQ.jpg",
       "sizes": "180x180",
       "type": "image/png"
     },
         {
-      "src": "IMG-20260503-WA0000.jpg",
+      "src": "CQ.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "IMG-20260503-WA0000.jpg",
+      "src": "CQ.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
