@@ -8,12 +8,7 @@
   "theme_color": "#1E90FF",
   "orientation": "portrait-primary",
   "icons": [
-    {
-      "src": "CQ.jpg",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-        {
+   {
       "src": "CQ.jpg",
       "sizes": "192x192",
       "type": "image/png"
